@@ -2,5 +2,5 @@ package hello
 
 // Hello hello test
 func Hello() string {
-	return "Hello, world. V310"
+	return "Hello, world. V200"
 }
